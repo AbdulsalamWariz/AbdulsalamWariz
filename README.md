@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **AbdulsalamWariz/AbdulsalamWariz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,17 +11,14 @@ Here are some ideas to get you started:
   JavaScript
   Python
   React.js
+  Vue.js
   Bootstrap 5
   Tailwind CSS
   
   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on Vue.js
+- 🌱 I’m currently learning Vue.js and Axios
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: +2347065479583 abdulsalamwariz06@gmail.com
+- 😄 Pronouns: He/Him
